@@ -1,0 +1,10 @@
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\bin\Debug\Programka.exe.config
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\bin\Debug\Programka.exe
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\bin\Debug\Programka.pdb
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\obj\Debug\Programka.csprojAssemblyReference.cache
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\obj\Debug\Programka.Form1.resources
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\obj\Debug\Programka.Properties.Resources.resources
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\obj\Debug\Programka.csproj.GenerateResource.cache
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\obj\Debug\Programka.csproj.CoreCompileInputs.cache
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\obj\Debug\Programka.exe
+C:\Users\Pasha_Knush\source\repos\Programka\Programka\obj\Debug\Programka.pdb
